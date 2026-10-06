@@ -1,0 +1,6 @@
+service vendor.vollasngen-service /vendor/bin/vollasngen-service
+    class late_start
+    user root
+    group root system
+    capabilities NET_ADMIN NET_RAW
+    oneshot
