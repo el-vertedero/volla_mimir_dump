@@ -1,0 +1,14 @@
+# mimir-user 16 BP4A.251205.006 31-volla-16.0 release-keys
+- manufacturer: volla
+- platform: mt6789
+- codename: mimir
+- flavor: mimir-user
+- release: 16
+- id: BP4A.251205.006
+- incremental: 31-volla-16.0
+- tags: release-keys
+- fingerprint: volla/mimir/mimir:16/BP4A.251205.006/31-volla-16.0:user/test-keys
+- is_ab: true
+- brand: volla
+- branch: mimir-user-16-BP4A.251205.006-31-volla-16.0-release-keys
+- repo: volla_mimir_dump
